@@ -1,1 +1,3 @@
 # Habitat-Suitability-Model
+### I was tasked with finding a few sites that were most suitable as habitat for the Northern Gannet, a large seabird native to the coasts of the North Atlantic Ocean. To accomplish this, I had to find areas that accommodated the birds' needs. These needs include: areas with a slope greater than or equal to 80%, areas on the coast, and areas that are 300 m away from a public roadway. The nesting sites had to be at least 1 hectare in size. 
+<img width="644" height="831" alt="Nesting Sites" src="https://github.com/user-attachments/assets/18692efe-07d4-4f51-8ba2-11f1395850ba" />
